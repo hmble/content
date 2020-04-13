@@ -40,3 +40,29 @@ Tracking points for this notes.
 - [ ] How edit a particular commit files ?
 
 
+NOTE : I want to write all this blog post becuase I want to share knowledge to
+community. Remember community is always growing. Each day tons of developers
+start their way to software development. So don't worry about publishing this
+blog posts. Take your time. 
+
+My inital thought was in order to get a job I need to have a website with tons
+of blog posts. _Well you don't._ So I will drop my idea to publish my blog post
+until I feel so.
+
+TODO: 
+- [ ] I wouldn't post this blogs as to make a useable blog post we need some
+  graphics which currently I don't have. Also some videos. For now I will just
+  find information and links related to all this questions which are useful to
+  me. 
+
+  After I get time to make quality post I will update all this with useful
+  graphics and detailed information.
+
+- [ ] Revisit all these blog post to properly write and then publish them. I
+  feel that we need quality content for a blog post. And I will do so but right
+  now I don't have resources and time to make beautiful graphics.
+
+- [ ] My english is not that good so once I get confidence in my english I will
+  rewrite all this blog post.
+
+
