@@ -36,6 +36,7 @@ Tracking points for this notes.
 - [ ] How can I get changes of someone who forked my repository ?
 - [ ] How to contribute to others repository ?
 - [ ] How to get changes of upstream repository which I am contributing while
-  working on my work.
+  working on my work ?
+- [ ] How edit a particular commit files ?
 
 
