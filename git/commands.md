@@ -34,13 +34,14 @@ if we get an error of unable to match branch then do
 `git checkout -b <new-branch> <parent-branch>`
 
 **How to get parent of a current branch**
-`git show-branch -a \
+```
+git show-branch -a \
 | grep '\*' \
 | grep -v `git rev-parse --abbrev-ref HEAD` \
 | head -n1 \
 | sed 's/[^\[]*//' \
 | awk 'match($0, /\[[a-zA-Z0-9\/-]+\]/) { print substr( $0, RSTART+1, RLENGTH-2 )}'
-`
+```
 
 [Reference](https://stackoverflow.com/a/17843908/9892778)
 

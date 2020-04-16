@@ -28,3 +28,8 @@ Headlines.
 
 An incredibly lightweight yet killer feature of git. Git branch is simply a
 lightlightweight movable pointer to a commit.
+
+Git branch creates a branch from a commit. Any changes we make on branch doesn't
+affect the parent. Branch is a named pointer which points to recent commit made
+on a particular branch. Commits on a branch differs from commit of parent. This
+way we can work on multiple workflows in parellel.

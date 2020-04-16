@@ -1,6 +1,25 @@
-**Useful git notes**
+How we would like to write our blog ?
+
+For now we can have simple notes to use in future.
+
+In order to have detailed blog we need time to do research about everything and
+make graphics or videos. We can make simple videos about all this notes. And
+explain them in detail in blog posts.
+
+I don't want to rewrite what is already written instead I want to keep different
+knowledge in one place for a reference. 
+
+Like for example. During Git branch blog post I couldnt think of a detail blog
+post about git branch. As of now I don't know how git branch works under the
+hood. So I cannot write detailed blog about git branch. As all those details are
+already present in
+[git-scm](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) 
+
+See [ Notes ](#NOTE) below **Useful git notes**
 
 Tracking points for this notes.
+
+
 
 1. Information about git commands in daily use.
   - [ ] git branch
@@ -40,7 +59,9 @@ Tracking points for this notes.
 - [ ] How edit a particular commit files ?
 
 
-NOTE : I want to write all this blog post becuase I want to share knowledge to
+#NOTE : 
+I want to write all this blog post becuase I want to share knowledge to
+
 community. Remember community is always growing. Each day tons of developers
 start their way to software development. So don't worry about publishing this
 blog posts. Take your time. 
