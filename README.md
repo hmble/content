@@ -9,5 +9,7 @@ All blog collection are in [blog](blog) directory.
 
 This repository is created on 05 May 2020. ( For reference ).
 
+**TIP**: `https://github.com/hmble/content/search?q="query string"` to search through this repository for content.
+
 
 
