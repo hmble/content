@@ -6,6 +6,7 @@ My own collection of **Today I Learned**.
 <summary>Unix commands</summary>
 
 * [awk](./unix-commands/awk.md)
+* [xclip](./unix-commands/xclip.md)
 
 </details>
 
