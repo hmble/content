@@ -7,19 +7,19 @@ consitent codebase banta.
 
 **List of new semantic elements**
 
-* <article>
-* <aside>
-* <details>
-* <figcaption>
-* <figure>
-* <footer>
-* <header>
-* <main>
-* <mark>
-* <nav>
-* <section>
-* <summary>
-* <time>
+* `<article>`
+* `<aside>`
+* `<details>`
+* `<figcaption>`
+* `<figure>`
+* `<footer>`
+* `<header>`
+* `<main>`
+* `<mark>`
+* `<nav>`
+* `<section>`
+* `<summary>`
+* `<time>`
 
 
 ### Difference between `<section>` and `<article>` 
@@ -81,8 +81,8 @@ ho to unhe group karne k liye use hota.
 </hgroup>
 ```
 
-> **NOTE**: REMEMBER, that the <header> element can contain any content, but the
-> <hgroup> element can only contain other headers, that is `<h1>` to `<h6>` and including <hgroup>.
+> **NOTE**: REMEMBER, that the `<header>` element can contain any content, but the
+> `<hgroup>` element can only contain other headers, that is `<h1>` to `<h6>` and including `<hgroup>`.
 
 
 ### `<aside>` Element.
