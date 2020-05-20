@@ -16,9 +16,6 @@
 **To delete remote branch**\
   `git push <remote> --delete <branch-name>`
 
-  shorter version\
-  `git push <remote>:<branch-name>`
-
   if we get an error of unable to match branch then do
 
   `git fetch -p`
