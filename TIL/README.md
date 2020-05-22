@@ -11,6 +11,13 @@ My own collection of **Today I Learned**.
 </details>
 
 <details>
+  <summary>Arch Linux</summary>
+
+* [system upgrade](./archlinux/system-upgrade.md) 
+  
+</details>
+
+<details>
 <summary>Github Protips</summary>
 
 * [collapse-markdown](./git/collapse-markdown.md)
