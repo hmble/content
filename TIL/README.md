@@ -24,4 +24,5 @@ My own collection of **Today I Learned**.
 * [rename-repo](./git/rename-repo.md)
 * [git-branch](./git/git-branch.md)
 * [git-rebase](./git/git-rebase.md)
+* [sign-your-work](./git/sign-your-work.md)
 </details>
